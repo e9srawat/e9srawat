@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Python
 - 💬 Ask me about Linux
-- 📫 How to reach me: shivansh.rawat@enine.school
+- 📫 How to reach me: srawat@enine.dev
 - ⚡ Hobbies: Badminton, Swimming, Video Games
 
